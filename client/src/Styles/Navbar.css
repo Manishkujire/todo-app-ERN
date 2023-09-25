@@ -1,0 +1,19 @@
+.nav-item{
+    font-size: 1.2rem;
+    
+    
+}
+
+
+
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+.nav-link:hover{
+    color: black;
+}
+.border-dotted{
+    border: dashed 1px black;
+    color: rgba(161, 162, 162, 0.767);
+    
+}

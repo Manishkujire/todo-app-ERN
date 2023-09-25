@@ -1,0 +1,16 @@
+
+.card {
+    height: 200px;
+}
+.add-task-card {
+    height: 200px;
+    background-color: white;
+    color: black;
+    border: 2px dashed rgb(56, 55, 55);
+}
+.complete{
+    background-color: rgb(183, 225, 183);
+}
+.uncomplete{
+    background-color: rgb(182, 214, 230);
+}
