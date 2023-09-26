@@ -4,7 +4,7 @@ const pool=createPool({
   user:'if0_35034260',
   password:'q7MxoZdXgCnL',
   connectionLimit:10,
-  database:'todo'
+  database:'if0_35034260_todo'
 })
 
 
