@@ -5,6 +5,6 @@ const pool=createPool({
   password: 'VvZsJWFIGh',
   database: 'sql12649222'
 })
-
+console.log("test")
 
 module.exports.pool= pool;
