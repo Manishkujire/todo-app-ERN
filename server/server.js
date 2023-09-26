@@ -9,7 +9,7 @@ const session = require("express-session");
 app.use(express.json());
 app.use(
   cors({
-    origin: ["https://manishpoojary.great-site.net"],
+    origin: ["https://manishpoojary.great-site.net","http://localhost:3000"],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
